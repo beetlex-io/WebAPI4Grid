@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "index";
+}
+<html>
+<head>
+
+    <link href="~/Css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/script/jquery-1.10.2.min.js"></script>
+</head>
+<body>
+    <h1>WebApi4Grid Samples</h1>
+
+
+    <div class="panel panel-default">
+        <div class="panel-heading">Login</div>
+        <div class="panel-body">
+            <div class="input-group">
+                <span class="input-group-addon">Name</span>
+                <input type="text" id="loginName" class="form-control" placeholder="Username" aria-describedby="basic-addon1">
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">PassWord</span>
+                <input type="text" id="loginPWD" class="form-control" placeholder="Recipient's username" aria-describedby="basic-addon2">
+            </div>
+        </div>
+        <div class="panel-footer"><a class="btn btn-primary btn-lg" href="javascript:void(0)" onclick="login()" role="button">login</a></div>
+    </div>
+
+
+
+        <div class="panel panel-default">
+        <div class="panel-heading">register</div>
+        <div class="panel-body">
+            <div class="input-group">
+                <span class="input-group-addon">Name</span>
+                <input type="text" id="regName" class="form-control" placeholder="Username" aria-describedby="basic-addon1">
+            </div>
+             <div class="input-group">
+                <span class="input-group-addon">EMail:</span>
+                <input type="text" id="regEMail" class="form-control" placeholder="Username" aria-describedby="basic-addon1">
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">PassWord</span>
+                <input type="text" id="regPWD" class="form-control" placeholder="Recipient's username" aria-describedby="basic-addon2">
+            </div>
+        </div>
+        <div class="panel-footer"><a class="btn btn-primary btn-lg" href="javascript:void(0)" onclick="register()" role="button">register</a></div>
+    </div>
+
+
+        <div class="panel panel-default">
+        <div class="panel-heading">Result Data</div>
+        <div class="panel-body" id="ResultData">
+            
+        </div>
+      
+    </div>
+    <script>
+        function login() {
+            $.post("/testapi/login", { username: $('#loginName').val(), pwd: $('#loginPWD').val() }, function (data) {
+                $('#ResultData').text(data);
+            });
+        }
+        function register() {
+            $.post("/testapi/register", { username: $('#regName').val(), pwd: $('#regPWD').val(),email:$('#regEMail').val() }, function (data) {
+                $('#ResultData').text(data);
+            });
+        }
+    </script>
+</body>
+</html>
