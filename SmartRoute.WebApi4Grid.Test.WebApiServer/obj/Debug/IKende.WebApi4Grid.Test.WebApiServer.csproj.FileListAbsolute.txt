@@ -1,0 +1,11 @@
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\bin\Debug\IKende.WebApi4Grid.Test.WebApiServer.exe
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\bin\Debug\IKende.WebApi4Grid.Test.WebApiServer.pdb
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\bin\Debug\Ikende.WebApi4Grid.dll
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\bin\Debug\Newtonsoft.Json.dll
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\bin\Debug\SmartRoute.dll
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\bin\Debug\Beetle.Express.dll
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\bin\Debug\Ikende.WebApi4Grid.pdb
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\obj\Debug\IKende.WebApi4Grid.Test.WebApiServer.csprojResolveAssemblyReference.cache
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\obj\Debug\IKende.WebApi4Grid.Test.WebApiServer.exe
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\obj\Debug\IKende.WebApi4Grid.Test.WebApiServer.pdb
+F:\IKende.WebApi4Grid\IKende.WebApi4Grid.Test.WebApiServer\bin\Debug\SmartRoute.pdb

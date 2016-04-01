@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2012\Projects\IKende.WebApi4Grid\Ikende.WebApi4Grid\obj\Debug\Ikende.WebApi4Grid.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\IKende.WebApi4Grid\Ikende.WebApi4Grid\bin\Debug\Ikende.WebApi4Grid.dll
+c:\users\administrator\documents\visual studio 2012\Projects\IKende.WebApi4Grid\Ikende.WebApi4Grid\bin\Debug\Ikende.WebApi4Grid.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\IKende.WebApi4Grid\Ikende.WebApi4Grid\bin\Debug\SmartRoute.dll
+c:\users\administrator\documents\visual studio 2012\Projects\IKende.WebApi4Grid\Ikende.WebApi4Grid\bin\Debug\Beetle.Express.dll
+c:\users\administrator\documents\visual studio 2012\Projects\IKende.WebApi4Grid\Ikende.WebApi4Grid\obj\Debug\Ikende.WebApi4Grid.dll
+c:\users\administrator\documents\visual studio 2012\Projects\IKende.WebApi4Grid\Ikende.WebApi4Grid\obj\Debug\Ikende.WebApi4Grid.pdb
+F:\IKende.WebApi4Grid\Ikende.WebApi4Grid\bin\Debug\Ikende.WebApi4Grid.dll
+F:\IKende.WebApi4Grid\Ikende.WebApi4Grid\bin\Debug\Ikende.WebApi4Grid.pdb
+F:\IKende.WebApi4Grid\Ikende.WebApi4Grid\bin\Debug\SmartRoute.dll
+F:\IKende.WebApi4Grid\Ikende.WebApi4Grid\bin\Debug\Beetle.Express.dll
+F:\IKende.WebApi4Grid\Ikende.WebApi4Grid\obj\Debug\Ikende.WebApi4Grid.csprojResolveAssemblyReference.cache
+F:\IKende.WebApi4Grid\Ikende.WebApi4Grid\obj\Debug\Ikende.WebApi4Grid.dll
+F:\IKende.WebApi4Grid\Ikende.WebApi4Grid\obj\Debug\Ikende.WebApi4Grid.pdb
+F:\IKende.WebApi4Grid\Ikende.WebApi4Grid\bin\Debug\SmartRoute.pdb

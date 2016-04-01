@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{6AE4BF83-1077-4914-82A5-0F44FD498941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRoute.WebApi4Grid", "SmartRoute.WebApi4Grid\SmartRoute.WebApi4Grid.csproj", "{0F63197A-A798-4E90-990C-8F7238D636BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRoute.WebApi4Grid.Test.Webapp", "SmartRoute.WebApi4Grid.Test.Webapp\SmartRoute.WebApi4Grid.Test.Webapp.csproj", "{2D4D616A-2EE3-4504-B215-8F58D7DAB2B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRoute.WebApi4Grid.Test.WebApiServer", "SmartRoute.WebApi4Grid.Test.WebApiServer\SmartRoute.WebApi4Grid.Test.WebApiServer.csproj", "{30B575F3-F27D-4A1A-A2FE-58258758D664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F63197A-A798-4E90-990C-8F7238D636BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F63197A-A798-4E90-990C-8F7238D636BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F63197A-A798-4E90-990C-8F7238D636BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F63197A-A798-4E90-990C-8F7238D636BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4D616A-2EE3-4504-B215-8F58D7DAB2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4D616A-2EE3-4504-B215-8F58D7DAB2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4D616A-2EE3-4504-B215-8F58D7DAB2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4D616A-2EE3-4504-B215-8F58D7DAB2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B575F3-F27D-4A1A-A2FE-58258758D664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B575F3-F27D-4A1A-A2FE-58258758D664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B575F3-F27D-4A1A-A2FE-58258758D664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B575F3-F27D-4A1A-A2FE-58258758D664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2D4D616A-2EE3-4504-B215-8F58D7DAB2B4} = {6AE4BF83-1077-4914-82A5-0F44FD498941}
+		{30B575F3-F27D-4A1A-A2FE-58258758D664} = {6AE4BF83-1077-4914-82A5-0F44FD498941}
+	EndGlobalSection
+EndGlobal
